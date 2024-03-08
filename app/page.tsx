@@ -1,5 +1,7 @@
+import {MainPage} from '../src/pages/main';
+
 function Home() {
-  return <div>Home</div>;
+  return <MainPage />;
 }
 
 export default Home;
